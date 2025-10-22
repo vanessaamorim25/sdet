@@ -1,0 +1,34 @@
+MATH
+
+X + 20 = 25
+
+Creating a variable = defining a variable
+
+var carType
+
+var carColor
+
+
+---------------
+
+var eyeColor
+var eyeColor -> two differents things
+
+
+
+var hairColor
+
+var phoneName
+
+var address
+
+-------------
+
+Naming Rules
+
+1. start any letter 
+2. can't start with a number
+3. any length
+4. case sensitive
+5. use camel case
+6. reserved Words
